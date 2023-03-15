@@ -27,6 +27,10 @@ h2 {
   color: #4b69fd;
 }
 
+ul {
+  list-style-type: none;
+}
+
 ul li {
   font-size: 18px;
   font-weight: 300;
